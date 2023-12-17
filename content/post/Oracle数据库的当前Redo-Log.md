@@ -3,7 +3,8 @@ title: Oracle数据库的当前Redo Log
 toc: true
 date: 2016-11-30 10:01:38
 tags: [Oracle, 数据库]
-categories: 数据库
+categories: 
+  - 数据库
 ---
 Online Redo Log（常常简称为Redo Log，有别于 Archived Redo Log），是重建数据库（恢复、重新设置）最重要的文件，记录了所有数据库的改变。
 一般情况下一个数据库，只有一个`Redo Thread`，但在 __RAC__ 环境下，每个实例具有自己的`Redo Thread`，用以避免对`Redo Log`的竞争，及潜在的性能瓶颈。

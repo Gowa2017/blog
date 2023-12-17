@@ -3,7 +3,8 @@ title: Oracle的 exp/imp
 toc: true
 date: 2016-11-30 16:23:24
 tags: [Oralce, 数据库]
-categories: 数据库
+categories: 
+  - 数据库
 ---
 Oracle数据库的备份，可以通过物化视图，可以通过物理备份（需要关闭数据库），可以通过热备份（归档模式）等方式，但是如果数据量小的时候我可以通过导入/导出数据来进行备份，类似于mysqldump命令。
 <!--more-->

@@ -2,7 +2,8 @@
 title: MySQL备份介绍及实施
 date: 2017-12-07 14:12:19
 updated: 2017-12-07 15:16:19
-categories: 数据库
+categories: 
+  - 数据库
 tags: 
   - Mysql
 ---

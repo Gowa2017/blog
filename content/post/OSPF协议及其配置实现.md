@@ -3,7 +3,8 @@ title: OSPF协议及其配置实现
 toc: true
 date: 2016-11-23 09:17:29
 tags: [OSPF, TCP/IP]
-categories: TCP/IP
+categories: 
+  - TCP/IP
 ---
 # 简介
 OSPF(Open Shortest Path First)是开放最短路径有限协议，V2针对IPV4网络，V3针对IPV6网络。是IETF组织开发的一个基于链路状态的内部网关协议。

@@ -3,7 +3,8 @@ title: 利用github API对markdown进行渲染
 toc: true
 date: 2016-12-22 09:15:18
 tags: [Github, Markdown, Nginx, Php]
-categories:  Misc
+categories:  
+  - Misc
 ---
 很喜欢github形式的markdown渲染，所以百度了一下，怎么样渲染成那样。结果还真有，github全占支持markdown，还提供了api接口。
 <!--more-->

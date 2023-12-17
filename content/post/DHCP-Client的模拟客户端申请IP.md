@@ -3,7 +3,8 @@ title: DHCP Client的模拟客户端申请IP
 toc: true
 date: 2016-12-14 11:26:46
 tags: [DHCP, TCP/IP]
-categories: TCP/IP
+categories: 
+  - TCP/IP
 ---
 Dhcp Client 用来模拟用户接入，发送各种报文到DHCP系统进行申请IP。现将其使用流程进行一下介绍。
 <!--more-->

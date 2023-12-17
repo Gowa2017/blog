@@ -2,7 +2,8 @@
 title: PPPoe-以太网上的点对点传输协议
 date: 2016-10-31 14:24:42
 tags: [PPPoE, TCP/IP]
-categories: TCP/IP
+categories: 
+  - TCP/IP
 toc: true
 ---
 PPPoE（英语：Point-to-Point Protocol Over Ethernet），以太网上的点对点协议，是将点对点协议（PPP）封装在以太网（Ethernet）框架中的一种网络隧道协议。由于协议中集成PPP协议，所以实现出传统以太网不能提供的身份验证、加密以及压缩等功能，也可用于缆线调制解调器（cable modem）和数字用户线路（DSL）等以以太网协议向用户提供接入服务的协议体系。

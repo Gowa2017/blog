@@ -3,7 +3,8 @@ title: Raid磁盘冗余阵列的理解
 toc: true
 date: 2016-11-21 17:26:24
 tags: [Device, Raid, 磁盘阵列]
-categories: Device
+categories: 
+  - Device
 ---
 ## 缘起
 公司部署业务的时候，6块盘需要做raid，以前还没有用过所以不知道，临时才去百度看了一下相关知识。最终在华为3108 2208扣卡上都做了raid10。

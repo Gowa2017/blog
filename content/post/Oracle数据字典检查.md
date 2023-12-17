@@ -2,7 +2,8 @@
 title: Oracle数据字典检查
 date: 2016-10-31 15:00:27
 tags: [Oracle, 数据库]
-categories: 数据库
+categories: 
+  - 数据库
 toc: true
 ---
 作为一个Oracle菜鸟想要管理数据库，怎么能不看一下官方的文档呢，日常所用的检查也能了解得差不多了。表空间、数据文件、控制文件段等等都可以得到很好的解答。

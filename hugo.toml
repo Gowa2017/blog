@@ -2,12 +2,12 @@ baseURL = '/'
 languageCode = 'zh-cn'
 title = '退思园'
 theme = 'Mainroad'
-[params]
+[Params]
     BookRepo = 'http://39.130.140.102:10152/gowa/gxdocs'
     BookEditPath = 'edit/master'
     plantuml = true
-    plantuml_server = 'https://kroki.io/'
     mermaid = true
+    plantuml_server = 'https://kroki.io/'
     readmore = true
     toc = true
     pager = true

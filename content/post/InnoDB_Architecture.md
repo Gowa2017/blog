@@ -1,7 +1,8 @@
 ---
 title: InnoDB的架构介绍
 date: 2017-12-04 14:02:38
-categories: 数据库
+categories: 
+  - 数据库
 tags: 
   - MySQL
 ---

@@ -3,7 +3,8 @@ title: Kindle越狱操作
 date: 2016-11-12 08:29:55
 tags: [Kindle]
 toc: true
-categories: Kindle
+categories: 
+  - Kindle
 ---
 前不久女朋友送了个Kindle Voyage，不过用来看pdf文档实在是不好看，寻思良久，网络上果然有狱越之法，遂记录之，以备固件升级重装之用。
 <!--more-->

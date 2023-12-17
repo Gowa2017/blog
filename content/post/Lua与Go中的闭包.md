@@ -2,7 +2,8 @@
 title: Go中的闭包
 date: 2016-11-19 19:54:12
 tags: [Golang] 
-categories: Golang
+categories: 
+  - Golang
 ---
 不止一次见到过闭包这种词了，以前在游戏做脚本的时候用Lua，其中就有闭包这个特性，但是确实没有仔细的研究过，最近在学习Go语言也看到了这个特性，才从新来理解一下。
 <!--more-->

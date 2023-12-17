@@ -3,7 +3,8 @@ title: mysql-dump 命令进行逻辑备份
 toc: true
 date: 2016-11-21 17:38:02
 tags: [MySQL, Linux, 数据库]
-categories: 数据库
+categories: 
+  - 数据库
 ---
 mysqldump经常用来备份数据库成为语句样式。但没有详细的一下具体的办法。
 其实很多东西都能在info里面找到非常详细的说明，只是，我们太忙了，只想要一个答案，而无心去看而已，所以呢，就把用得到的都看一下来记录吧。

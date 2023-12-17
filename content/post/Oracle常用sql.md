@@ -3,7 +3,8 @@ title: Oracle常用sql
 toc: true
 date: 2016-11-29 10:24:33
 tags: [Oracle, 数据库]
-categories: 数据库
+categories: 
+  - 数据库
 ---
 主要是工作记录需要应用到的时候进行了一下记录，包括会话、session、锁等的查询。
 <!--more-->
