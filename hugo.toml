@@ -1,0 +1,38 @@
+baseURL = '/'
+languageCode = 'zh-cn'
+title = '退思园'
+theme = 'Mainroad'
+[params]
+    BookRepo = 'http://39.130.140.102:10152/gowa/gxdocs'
+    BookEditPath = 'edit/master'
+    plantuml = true
+    plantuml_server = 'https://kroki.io/'
+    mermaid = true
+    readmore = true
+    toc = true
+    pager = true
+    post_meta = ["author", "date", "categories", "translations"]
+    mainSections = ["post", "blog", "news"] 
+
+[author]
+    name = "Gowa2017"
+[Params.sidebar]
+  home = "right" # Configure layout for home page
+  list = "left"  # Configure layout for list pages
+  # single = true # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  categories_counter = true # Enable counter for each category in "Categories" widget
+  tags_counter = true # Enable counter for each tag in "Tags" widget
+
+
+[Params.widgets.social]
+  github = "Gowa2017"
+[Params.widgets.search]
+  cached = false # activate cache if true
+  url = "https://www.google.com/search"
+  [Params.widgets.search.input]
+    name = "sitesearch"
+    pre = ""
